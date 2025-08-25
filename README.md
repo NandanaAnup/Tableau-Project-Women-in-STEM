@@ -12,5 +12,6 @@ The objective of this dashboard is to provide comprehensive insights into women'
 Distribution of women across four major STEM occupation categories, with Biological scientists representing 46% of female STEM professionals.
 The visualization reveals that technology fields attract the most women in STEM, while traditional architechture and engineering disciplines show the lowest representation at 16.50%.
 
-2. 
+
+
 
